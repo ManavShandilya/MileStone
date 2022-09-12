@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Roboto:wght@300&display=swap');
+
+.max-width-1{
+ max-width: 60vw;
+}
+/*vw will adjust to every device viewport....*/
+.max-width-2{
+ max-width: 60vw;
+}
+.m-auto{
+ margin: auto;
+}
